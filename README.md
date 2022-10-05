@@ -3,7 +3,7 @@
 This is a Jekyll website template designed for Prep Fellows.
 
 
-## Make your own!
+## Make your own
 
 1. Use the Template button.
 2. Update `_config.yml` to contain your information.
